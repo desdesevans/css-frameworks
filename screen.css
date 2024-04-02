@@ -1,1 +1,18 @@
 /* Add screen styles below */
+
+body {
+    background: #000000;
+    color: #FFFFFF;
+}
+form {
+    max-width: 500px;
+    padding: 50px;
+  }
+
+  h1 {
+    padding: 20px;
+  }
+
+  p {
+    text-align: center;
+  }
